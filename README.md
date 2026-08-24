@@ -140,13 +140,75 @@ PYTHONPATH=src:. python scripts/paper_figures/fig1_res_stream.py
 | `fig_app_attention_routing.py`         | step 1 attention extraction + `data/classify_attn_heads.json` |
 | `fig_app_logit_lens.py`                | `data/difference_logit_lens.json` (step 2) |
 
+### 5. Generalization to WHOOPS-AHA (GPU + CPU)
+
+The paper's generalization experiment repeats the whole pipeline on counterfactual images from
+the WHOOPS! benchmark, re-captioned into the same visual/prior prompt template. Answers are
+open-vocabulary rather than a fixed colour pair, which tests whether the identified circuit is
+specific to the colour setting.
+
+The prompt pairs are in `whoops_aha_table_final.csv` at the repository root; images are pulled
+from the `francescortu/whoops-aha` dataset at run time. The `*_answer_guess` columns are not
+read by any code: answer tokens are the model's own top-1 prediction under each prompt.
+
+Stages run through a single entry point:
+
+```bash
+PYTHONPATH=src:. python scripts/run_whoops_pipeline.py --stage inference   --model-size 3B --model-family qwen
+PYTHONPATH=src:. python scripts/run_whoops_pipeline.py --stage res_stream  --model-size 3B --model-family qwen
+PYTHONPATH=src:. python scripts/run_whoops_pipeline.py --stage attn_heads  --model-size 3B --model-family qwen
+PYTHONPATH=src:. python scripts/run_whoops_pipeline.py --stage mlp         --model-size 3B --model-family qwen
+PYTHONPATH=src:. python scripts/run_whoops_pipeline.py --stage attn_weights --model-size 3B --model-family qwen
+```
+
+`--stage inference` must run first: the conflicting subset is defined as the examples whose
+top-1 prediction differs between the two prompts, and the later stages read that.
+
+Classify, then ablate:
+
+```bash
+PYTHONPATH=src:. python scripts/analysis/classify_whoops.py
+PYTHONPATH=src:. python scripts/run_whoops_pipeline.py --stage knockout_attn --model-size 3B --model-family qwen
+PYTHONPATH=src:. python scripts/run_whoops_pipeline.py --stage knockout_mlp  --model-size 3B --model-family qwen
+```
+
+`classify_whoops.py` writes `data/classify_attn_heads_whoops.json` and
+`data/classify_mlp_layers_whoops.json`, which the knockout stages read.
+
+The pipeline also exposes a `knockout_attn_frozen` stage, which ablates the circuit selected on
+Visual-Counterfact against the WHOOPS examples instead of re-selecting on them. It was
+exploratory, its result is not part of the reported findings, and `whoops_summary.py` skips its
+output directory. It is included so the released code matches what was run.
+
+Summarise across models:
+
+```bash
+PYTHONPATH=src:. python scripts/analysis/whoops_summary.py --latex
+```
+
+This prints the circuit-recovery and ablation-asymmetry tables, with a McNemar exact test on
+the paired per-example outcomes.
+
+### 6. Head selection stability (CPU)
+
+Checks whether the classified head set depends on which examples were used to discover it, by
+re-running the classification on each four-fifths subset:
+
+```bash
+PYTHONPATH=src:. python scripts/analysis/kfold_stability.py
+PYTHONPATH=src:. python scripts/analysis/kfold_stability.py --seed-sweep 20
+```
+
+Writes `data/kfold_stability.json`. Needs step 1 attention-head patching only.
+
 ## Repository structure
 
 ```
 src/vdpo/        Core library: VLM adapters, experiment runners, types, utilities
 scripts/         run_*.py (experiments), analysis/ (classification), paper_figures/ (plots)
 data/            Classification JSON written by scripts/analysis/ (generated; read by the knockout ablation runners)
-tests/           Unit tests for contrast and patching helpers
+tests/           Unit tests for contrast, patching helpers, and the WHOOPS summary
+whoops_aha_table_final.csv   Re-captioned WHOOPS-AHA prompt pairs (input to step 5)
 ```
 
 Run the tests with:

@@ -1,0 +1,43 @@
+whoops_aha_index,prior_question,prior_answer_guess,counterfactual_question,counterfactual_answer_guess,task
+32,Where does the chicken live generally?,coup,Where does the chicken live here?,water,unnatural_environment
+34,Where does the panda live generally?,forest,Where does the panda live here?,desert,unnatural_environment
+39,What is the symbol on a MacBook generally?,apple,What is the symbol on a MacBook here?,pear,principles_conflict
+41,What is the soccer ball made of generally?,fabric (?),What is the soccer ball made of here?,metal,principles_conflict
+56,What color is the ladybug generally?,red,What color is the ladybug here?,pink,color_inversion
+60,Can chickens fly generally?,no,Can chickens fly here?,yes,principles_conflict
+73,Where does the penguin live generally?,iceberg (?),Where does the penguin live here?,desert,unnatural_environment
+87,Where does the alligator live generally?,lake (?),Where does the alligator live here?,ice (?),unnatural_environment
+98,What does Snow White hold generally?,apple,What does Snow White hold here?,tomato,incorrect_usage
+103,Where do skiers ski generally?,snow,Where do skiers ski here?,sand,unnatural_environment
+106,What gender is the Mona Lisa generally?,female,What gender is the Mona Lisa here?,male,object_shape
+113,Where is a payphones located generally?,cities (?),Where is a payphones located here?,desert,unnatural_environment
+131,Where does the moose live generally?,forest (?),Where does the moose live here?,water (?),unnatural_environment
+156,What color is Pikach generally?,yellow,What color is Pikach here?,blue,color_inversion
+163,What color is Shrek generally?,green,What color is Shrek here?,blue,color_inversion
+168,What does the snowplow plow generally?,snow,What does the snowplow plow here?,sand,unnatural_environment
+179,What sport does Lionel Messi play generally?,soccer,What sport does Lionel Messi play here?,tennis,principles_conflict
+213,Where do potatoes grow on generally?,ground,Where do potatoes grow on here?,tree,unnatural_environment
+215,Where is a lighthouse located generally?,water,Where is this lighthouse located here?,desert,unnatural_environment
+225,What color is a gun generally?,black,What color is this gun here?,pink,color_inversion
+226,What does a gumball machines dispense generally?,gum,What does this gumball machines dispense here?,vegetables,incorrect_usage
+258,Which country’s flag is hung on the moon historically?,USA,What country’s flag is hung on the moon here?,France,principles_conflict
+266,Where would a butterfly land generally?,flower,Where would this butterfly land here?,water,unnatural_environment
+281,What color is a stop sign generally?,red,What color is this stop sign here?,green,color_inversion
+292,What shape would a watermelon be generally?,Sphere,What shape would this watermelon be here?,Cube,object_shape
+297,Where are the sphinx located generally?,desert,Where are the sphinx located here?,forest,unnatural_environment
+298,What color is an apple generally?,red / green,What color is an apple here?,purple,color_inversion
+304,What color is a military uniform generally?,green,What color is a military uniform here?,pink,color_inversion
+312,What shape would an apple be generally?,Sphere,What shape would this apple be here?,Cube,object_shape
+316,What does Winnie the Pooh eat generally?,honey,What does Winnie the Pooh eat here?,jam,principles_conflict
+320,Where would a snowman sit on top of generally?,snow,Where does a snowman sit on top of here?,sand,unnatural_environment
+329,Where would a snowman be generally?,snow,Where does a snowman live here?,desert,unnatural_environment
+340,What shape would a billard table be generally?,rectangle,What shape would a billard table be here?,circle,object_shape
+353,What color is a military tank generally?,green,What color is a military tank here?,pink,color_inversion
+384,Where would a cactus be generally?,desert,Where does a cactus live here?,iceberg,unnatural_environment
+414,What does a wolf howl at generally?,moon,What does a wolf howl at here?,sun,principles_conflict
+428,What utensil would one use to eat soup generally?,spoon,What utensil is one using to eat soup here?,fork,incorrect_usage
+433,Where would an astronauts walk generally?,moon,Where does an astronauts walk here?,beach,unnatural_environment
+446,Where would a ship be generally?,water,Where does the ship appear here?,sand,unnatural_environment
+463,Where does Mark Zuckerberg work generally?,Facebook,Where does Mark Zuckerberg work here?,amazon,principles_conflict
+464,Where does Steve Jobs work generally?,Apple,Where does Steve Jobs work here?,Microsoft,principles_conflict
+480,What is the name of the object that hokey sticks hit generally?,puck,What is the name of the object that hokey sticks hit here?,football,incorrect_usage
