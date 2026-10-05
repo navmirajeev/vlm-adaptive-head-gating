@@ -1,0 +1,1222 @@
+[
+  {
+    "object": "Vulture",
+    "prior_color": "Brown",
+    "visual_color": "Green",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 5.770752906799316,
+        "visual_norm": 4.2516913414001465,
+        "difference_norm": 6.162543773651123,
+        "cosine": 0.2731051445007324
+      },
+      "L26_H5": {
+        "prior_norm": 5.397244453430176,
+        "visual_norm": 3.5594844818115234,
+        "difference_norm": 5.555912017822266,
+        "cosine": 0.28451910614967346
+      },
+      "L26_H6": {
+        "prior_norm": 4.405102252960205,
+        "visual_norm": 3.148209810256958,
+        "difference_norm": 3.897845506668091,
+        "cosine": 0.5091851949691772
+      },
+      "L27_H1": {
+        "prior_norm": 5.079470634460449,
+        "visual_norm": 8.351542472839355,
+        "difference_norm": 6.75306510925293,
+        "cosine": 0.5886815190315247
+      },
+      "L27_H4": {
+        "prior_norm": 3.7667646408081055,
+        "visual_norm": 6.952341079711914,
+        "difference_norm": 5.295816421508789,
+        "cosine": 0.6582807302474976
+      },
+      "L28_H3": {
+        "prior_norm": 4.345509052276611,
+        "visual_norm": 3.0443315505981445,
+        "difference_norm": 3.2010598182678223,
+        "cosine": 0.6767097115516663
+      },
+      "L31_H3": {
+        "prior_norm": 15.55647087097168,
+        "visual_norm": 11.942889213562012,
+        "difference_norm": 16.390897750854492,
+        "cosine": 0.31211429834365845
+      },
+      "L31_H7": {
+        "prior_norm": 8.835046768188477,
+        "visual_norm": 13.71243953704834,
+        "difference_norm": 10.46658706665039,
+        "cosine": 0.6460567712783813
+      },
+      "L34_H14": {
+        "prior_norm": 13.74413013458252,
+        "visual_norm": 15.0308837890625,
+        "difference_norm": 9.572994232177734,
+        "cosine": 0.7822062373161316
+      }
+    }
+  },
+  {
+    "object": "Stingray",
+    "prior_color": "Gray",
+    "visual_color": "Red",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 4.878373622894287,
+        "visual_norm": 3.7225027084350586,
+        "difference_norm": 4.428302764892578,
+        "cosine": 0.4968593716621399
+      },
+      "L26_H5": {
+        "prior_norm": 4.617205619812012,
+        "visual_norm": 3.112675905227661,
+        "difference_norm": 4.294341087341309,
+        "cosine": 0.43717271089553833
+      },
+      "L26_H6": {
+        "prior_norm": 3.379760980606079,
+        "visual_norm": 3.190897226333618,
+        "difference_norm": 2.6211066246032715,
+        "cosine": 0.6831309199333191
+      },
+      "L27_H1": {
+        "prior_norm": 3.67938232421875,
+        "visual_norm": 7.734670639038086,
+        "difference_norm": 5.649722099304199,
+        "cosine": 0.7281334400177002
+      },
+      "L27_H4": {
+        "prior_norm": 4.036257266998291,
+        "visual_norm": 7.210977554321289,
+        "difference_norm": 4.587937355041504,
+        "cosine": 0.8115411996841431
+      },
+      "L28_H3": {
+        "prior_norm": 4.576622486114502,
+        "visual_norm": 3.591904878616333,
+        "difference_norm": 3.023010492324829,
+        "cosine": 0.751535177230835
+      },
+      "L31_H3": {
+        "prior_norm": 10.241283416748047,
+        "visual_norm": 15.704307556152344,
+        "difference_norm": 13.32121467590332,
+        "cosine": 0.5411052107810974
+      },
+      "L31_H7": {
+        "prior_norm": 10.803009986877441,
+        "visual_norm": 15.952306747436523,
+        "difference_norm": 6.425267219543457,
+        "cosine": 0.9571504592895508
+      },
+      "L34_H14": {
+        "prior_norm": 14.668392181396484,
+        "visual_norm": 16.974855422973633,
+        "difference_norm": 8.404403686523438,
+        "cosine": 0.868843674659729
+      }
+    }
+  },
+  {
+    "object": "Strawberry",
+    "prior_color": "Red",
+    "visual_color": "Blue",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 7.115187644958496,
+        "visual_norm": 3.8760595321655273,
+        "difference_norm": 7.178455829620361,
+        "cosine": 0.25598379969596863
+      },
+      "L26_H5": {
+        "prior_norm": 6.610844135284424,
+        "visual_norm": 3.2282888889312744,
+        "difference_norm": 6.7165117263793945,
+        "cosine": 0.21117286384105682
+      },
+      "L26_H6": {
+        "prior_norm": 5.019686698913574,
+        "visual_norm": 3.4491779804229736,
+        "difference_norm": 4.728564739227295,
+        "cosine": 0.42552074790000916
+      },
+      "L27_H1": {
+        "prior_norm": 7.6665143966674805,
+        "visual_norm": 8.317523002624512,
+        "difference_norm": 8.125720977783203,
+        "cosine": 0.48559489846229553
+      },
+      "L27_H4": {
+        "prior_norm": 5.669816017150879,
+        "visual_norm": 7.432122707366943,
+        "difference_norm": 6.6128034591674805,
+        "cosine": 0.5179802179336548
+      },
+      "L28_H3": {
+        "prior_norm": 4.321878433227539,
+        "visual_norm": 3.6724202632904053,
+        "difference_norm": 3.459616184234619,
+        "cosine": 0.6362360119819641
+      },
+      "L31_H3": {
+        "prior_norm": 16.969453811645508,
+        "visual_norm": 13.288204193115234,
+        "difference_norm": 21.047941207885742,
+        "cosine": 0.04772389680147171
+      },
+      "L31_H7": {
+        "prior_norm": 10.25186538696289,
+        "visual_norm": 15.887182235717773,
+        "difference_norm": 14.813947677612305,
+        "cosine": 0.4237965941429138
+      },
+      "L34_H14": {
+        "prior_norm": 15.44555950164795,
+        "visual_norm": 16.8370418548584,
+        "difference_norm": 14.840826034545898,
+        "cosine": 0.5802584290504456
+      }
+    }
+  },
+  {
+    "object": "Honeydew",
+    "prior_color": "Green",
+    "visual_color": "Orange",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 4.982248783111572,
+        "visual_norm": 3.5750322341918945,
+        "difference_norm": 3.2674448490142822,
+        "cosine": 0.7558925151824951
+      },
+      "L26_H5": {
+        "prior_norm": 4.474048137664795,
+        "visual_norm": 3.2722792625427246,
+        "difference_norm": 2.5483767986297607,
+        "cosine": 0.8275319337844849
+      },
+      "L26_H6": {
+        "prior_norm": 3.4942164421081543,
+        "visual_norm": 2.622565269470215,
+        "difference_norm": 2.0043981075286865,
+        "cosine": 0.8222444653511047
+      },
+      "L27_H1": {
+        "prior_norm": 7.357619285583496,
+        "visual_norm": 6.737010478973389,
+        "difference_norm": 1.8760567903518677,
+        "cosine": 0.968382716178894
+      },
+      "L27_H4": {
+        "prior_norm": 6.245472431182861,
+        "visual_norm": 4.6539530754089355,
+        "difference_norm": 2.377005100250244,
+        "cosine": 0.946377158164978
+      },
+      "L28_H3": {
+        "prior_norm": 5.232983589172363,
+        "visual_norm": 2.911911964416504,
+        "difference_norm": 3.427520990371704,
+        "cosine": 0.7912939190864563
+      },
+      "L31_H3": {
+        "prior_norm": 18.037548065185547,
+        "visual_norm": 10.811270713806152,
+        "difference_norm": 10.965950012207031,
+        "cosine": 0.8255643844604492
+      },
+      "L31_H7": {
+        "prior_norm": 12.226068496704102,
+        "visual_norm": 12.412357330322266,
+        "difference_norm": 5.337303161621094,
+        "cosine": 0.9062559604644775
+      },
+      "L34_H14": {
+        "prior_norm": 16.593461990356445,
+        "visual_norm": 16.120655059814453,
+        "difference_norm": 5.990015983581543,
+        "cosine": 0.9333513379096985
+      }
+    }
+  },
+  {
+    "object": "Skillet",
+    "prior_color": "Black",
+    "visual_color": "Orange",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 5.20318603515625,
+        "visual_norm": 3.5278024673461914,
+        "difference_norm": 5.012627124786377,
+        "cosine": 0.39203107357025146
+      },
+      "L26_H5": {
+        "prior_norm": 5.1462907791137695,
+        "visual_norm": 3.2876129150390625,
+        "difference_norm": 4.7798309326171875,
+        "cosine": 0.42691388726234436
+      },
+      "L26_H6": {
+        "prior_norm": 3.5010251998901367,
+        "visual_norm": 3.1963651180267334,
+        "difference_norm": 3.212829113006592,
+        "cosine": 0.5429425239562988
+      },
+      "L27_H1": {
+        "prior_norm": 4.907499313354492,
+        "visual_norm": 7.63858699798584,
+        "difference_norm": 6.337703704833984,
+        "cosine": 0.5637392997741699
+      },
+      "L27_H4": {
+        "prior_norm": 4.457271099090576,
+        "visual_norm": 7.15963888168335,
+        "difference_norm": 3.982412338256836,
+        "cosine": 0.8659330010414124
+      },
+      "L28_H3": {
+        "prior_norm": 4.186532974243164,
+        "visual_norm": 3.1450135707855225,
+        "difference_norm": 2.6176235675811768,
+        "cosine": 0.7809935212135315
+      },
+      "L31_H3": {
+        "prior_norm": 9.71068286895752,
+        "visual_norm": 15.33154010772705,
+        "difference_norm": 10.874944686889648,
+        "cosine": 0.7089247703552246
+      },
+      "L31_H7": {
+        "prior_norm": 11.777223587036133,
+        "visual_norm": 17.546422958374023,
+        "difference_norm": 7.322593688964844,
+        "cosine": 0.9507939219474792
+      },
+      "L34_H14": {
+        "prior_norm": 13.684744834899902,
+        "visual_norm": 16.02557373046875,
+        "difference_norm": 7.882676124572754,
+        "cosine": 0.8708263039588928
+      }
+    }
+  },
+  {
+    "object": "Revolver",
+    "prior_color": "Black",
+    "visual_color": "Pink",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 6.482980728149414,
+        "visual_norm": 3.743151903152466,
+        "difference_norm": 6.910835266113281,
+        "cosine": 0.17061546444892883
+      },
+      "L26_H5": {
+        "prior_norm": 5.585888862609863,
+        "visual_norm": 3.5562584400177,
+        "difference_norm": 5.780357360839844,
+        "cosine": 0.26268985867500305
+      },
+      "L26_H6": {
+        "prior_norm": 3.6326193809509277,
+        "visual_norm": 3.316551685333252,
+        "difference_norm": 3.5604825019836426,
+        "cosine": 0.4780304729938507
+      },
+      "L27_H1": {
+        "prior_norm": 5.403059482574463,
+        "visual_norm": 8.629616737365723,
+        "difference_norm": 7.890827178955078,
+        "cosine": 0.4439356029033661
+      },
+      "L27_H4": {
+        "prior_norm": 4.040171146392822,
+        "visual_norm": 7.3213677406311035,
+        "difference_norm": 6.026338577270508,
+        "cosine": 0.5681058168411255
+      },
+      "L28_H3": {
+        "prior_norm": 4.466658592224121,
+        "visual_norm": 3.125856876373291,
+        "difference_norm": 3.2856979370117188,
+        "cosine": 0.6777691841125488
+      },
+      "L31_H3": {
+        "prior_norm": 8.574646949768066,
+        "visual_norm": 13.903759956359863,
+        "difference_norm": 12.028993606567383,
+        "cosine": 0.5122570395469666
+      },
+      "L31_H7": {
+        "prior_norm": 8.170171737670898,
+        "visual_norm": 16.921846389770508,
+        "difference_norm": 10.111949920654297,
+        "cosine": 0.9072011709213257
+      },
+      "L34_H14": {
+        "prior_norm": 13.943155288696289,
+        "visual_norm": 16.030166625976562,
+        "difference_norm": 8.612011909484863,
+        "cosine": 0.8438307642936707
+      }
+    }
+  },
+  {
+    "object": "Computer keyboard",
+    "prior_color": "Black",
+    "visual_color": "Pink",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 6.299750804901123,
+        "visual_norm": 3.7051196098327637,
+        "difference_norm": 6.158037185668945,
+        "cosine": 0.3318867087364197
+      },
+      "L26_H5": {
+        "prior_norm": 6.491362571716309,
+        "visual_norm": 3.66524600982666,
+        "difference_norm": 6.745743274688721,
+        "cosine": 0.21155381202697754
+      },
+      "L26_H6": {
+        "prior_norm": 3.8927392959594727,
+        "visual_norm": 3.1669352054595947,
+        "difference_norm": 3.662473201751709,
+        "cosine": 0.47733354568481445
+      },
+      "L27_H1": {
+        "prior_norm": 3.8956093788146973,
+        "visual_norm": 7.8564133644104,
+        "difference_norm": 7.75015115737915,
+        "cosine": 0.2750183641910553
+      },
+      "L27_H4": {
+        "prior_norm": 4.457920074462891,
+        "visual_norm": 7.447519779205322,
+        "difference_norm": 7.801080703735352,
+        "cosine": 0.2180955857038498
+      },
+      "L28_H3": {
+        "prior_norm": 5.876502513885498,
+        "visual_norm": 3.36639666557312,
+        "difference_norm": 4.889797210693359,
+        "cosine": 0.5549258589744568
+      },
+      "L31_H3": {
+        "prior_norm": 11.720185279846191,
+        "visual_norm": 15.832080841064453,
+        "difference_norm": 17.8294734954834,
+        "cosine": 0.18896658718585968
+      },
+      "L31_H7": {
+        "prior_norm": 3.766540765762329,
+        "visual_norm": 16.240644454956055,
+        "difference_norm": 14.568190574645996,
+        "cosine": 0.5371264219284058
+      },
+      "L34_H14": {
+        "prior_norm": 13.900777816772461,
+        "visual_norm": 16.11653709411621,
+        "difference_norm": 14.048721313476562,
+        "cosine": 0.5704705715179443
+      }
+    }
+  },
+  {
+    "object": "Alligator",
+    "prior_color": "Green",
+    "visual_color": "Pink",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 5.771122932434082,
+        "visual_norm": 4.023841857910156,
+        "difference_norm": 5.537139892578125,
+        "cosine": 0.40558910369873047
+      },
+      "L26_H5": {
+        "prior_norm": 5.394468307495117,
+        "visual_norm": 3.550351619720459,
+        "difference_norm": 5.070903778076172,
+        "cosine": 0.41747599840164185
+      },
+      "L26_H6": {
+        "prior_norm": 4.310468673706055,
+        "visual_norm": 3.358389139175415,
+        "difference_norm": 3.159238815307617,
+        "cosine": 0.6865782737731934
+      },
+      "L27_H1": {
+        "prior_norm": 4.657232284545898,
+        "visual_norm": 8.577922821044922,
+        "difference_norm": 6.880589008331299,
+        "cosine": 0.5998599529266357
+      },
+      "L27_H4": {
+        "prior_norm": 4.047160625457764,
+        "visual_norm": 6.680299282073975,
+        "difference_norm": 4.483182907104492,
+        "cosine": 0.7565210461616516
+      },
+      "L28_H3": {
+        "prior_norm": 4.212466716766357,
+        "visual_norm": 3.8795461654663086,
+        "difference_norm": 2.621338367462158,
+        "cosine": 0.7931591272354126
+      },
+      "L31_H3": {
+        "prior_norm": 15.786430358886719,
+        "visual_norm": 12.877372741699219,
+        "difference_norm": 18.87248420715332,
+        "cosine": 0.1447884738445282
+      },
+      "L31_H7": {
+        "prior_norm": 9.443111419677734,
+        "visual_norm": 16.680002212524414,
+        "difference_norm": 9.87075138092041,
+        "cosine": 0.8569651246070862
+      },
+      "L34_H14": {
+        "prior_norm": 13.715426445007324,
+        "visual_norm": 17.220470428466797,
+        "difference_norm": 9.272025108337402,
+        "cosine": 0.8440104722976685
+      }
+    }
+  },
+  {
+    "object": "Trumpet",
+    "prior_color": "Gold",
+    "visual_color": "Blue",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 5.308794021606445,
+        "visual_norm": 4.239618301391602,
+        "difference_norm": 5.145956993103027,
+        "cosine": 0.4371209144592285
+      },
+      "L26_H5": {
+        "prior_norm": 4.978530406951904,
+        "visual_norm": 3.5393426418304443,
+        "difference_norm": 4.501021862030029,
+        "cosine": 0.48390501737594604
+      },
+      "L26_H6": {
+        "prior_norm": 3.3921055793762207,
+        "visual_norm": 3.520869016647339,
+        "difference_norm": 3.2460222244262695,
+        "cosine": 0.559577226638794
+      },
+      "L27_H1": {
+        "prior_norm": 5.356978416442871,
+        "visual_norm": 8.489628791809082,
+        "difference_norm": 6.578012943267822,
+        "cosine": 0.6321715116500854
+      },
+      "L27_H4": {
+        "prior_norm": 4.76327657699585,
+        "visual_norm": 7.7682108879089355,
+        "difference_norm": 4.568472862243652,
+        "cosine": 0.839991569519043
+      },
+      "L28_H3": {
+        "prior_norm": 3.8590340614318848,
+        "visual_norm": 3.19913911819458,
+        "difference_norm": 2.4729104042053223,
+        "cosine": 0.7699653506278992
+      },
+      "L31_H3": {
+        "prior_norm": 11.941965103149414,
+        "visual_norm": 13.260865211486816,
+        "difference_norm": 14.882165908813477,
+        "cosine": 0.30620646476745605
+      },
+      "L31_H7": {
+        "prior_norm": 8.954124450683594,
+        "visual_norm": 14.885832786560059,
+        "difference_norm": 9.399678230285645,
+        "cosine": 0.8005517721176147
+      },
+      "L34_H14": {
+        "prior_norm": 14.51330280303955,
+        "visual_norm": 15.915105819702148,
+        "difference_norm": 7.6943206787109375,
+        "cosine": 0.8760988712310791
+      }
+    }
+  },
+  {
+    "object": "Panther",
+    "prior_color": "Black",
+    "visual_color": "Pink",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 5.761338233947754,
+        "visual_norm": 4.571679592132568,
+        "difference_norm": 6.355898380279541,
+        "cosine": 0.25999152660369873
+      },
+      "L26_H5": {
+        "prior_norm": 4.813356876373291,
+        "visual_norm": 3.6205942630767822,
+        "difference_norm": 5.040056228637695,
+        "cosine": 0.31201043725013733
+      },
+      "L26_H6": {
+        "prior_norm": 3.7815895080566406,
+        "visual_norm": 3.566802978515625,
+        "difference_norm": 3.6430418491363525,
+        "cosine": 0.5097331404685974
+      },
+      "L27_H1": {
+        "prior_norm": 6.792008876800537,
+        "visual_norm": 8.686395645141602,
+        "difference_norm": 8.899397850036621,
+        "cosine": 0.3592115640640259
+      },
+      "L27_H4": {
+        "prior_norm": 4.931984901428223,
+        "visual_norm": 7.61030912399292,
+        "difference_norm": 5.3711934089660645,
+        "cosine": 0.7112439274787903
+      },
+      "L28_H3": {
+        "prior_norm": 4.5748443603515625,
+        "visual_norm": 3.524796724319458,
+        "difference_norm": 3.5251057147979736,
+        "cosine": 0.6488839983940125
+      },
+      "L31_H3": {
+        "prior_norm": 15.081417083740234,
+        "visual_norm": 14.43017578125,
+        "difference_norm": 15.762741088867188,
+        "cosine": 0.4301272928714752
+      },
+      "L31_H7": {
+        "prior_norm": 9.908082008361816,
+        "visual_norm": 16.976465225219727,
+        "difference_norm": 10.141650199890137,
+        "cosine": 0.8427773714065552
+      },
+      "L34_H14": {
+        "prior_norm": 10.944687843322754,
+        "visual_norm": 15.398317337036133,
+        "difference_norm": 9.81764030456543,
+        "cosine": 0.7728852033615112
+      }
+    }
+  },
+  {
+    "object": "Rubber eraser",
+    "prior_color": "Pink",
+    "visual_color": "Green",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 5.181107044219971,
+        "visual_norm": 3.2479991912841797,
+        "difference_norm": 4.551787376403809,
+        "cosine": 0.4954353868961334
+      },
+      "L26_H5": {
+        "prior_norm": 5.140499591827393,
+        "visual_norm": 3.224163055419922,
+        "difference_norm": 4.464478969573975,
+        "cosine": 0.5094903111457825
+      },
+      "L26_H6": {
+        "prior_norm": 3.521047830581665,
+        "visual_norm": 3.2700507640838623,
+        "difference_norm": 2.0685253143310547,
+        "cosine": 0.8169273138046265
+      },
+      "L27_H1": {
+        "prior_norm": 5.083350658416748,
+        "visual_norm": 8.452957153320312,
+        "difference_norm": 6.529513359069824,
+        "cosine": 0.6360162496566772
+      },
+      "L27_H4": {
+        "prior_norm": 3.756706714630127,
+        "visual_norm": 7.00147819519043,
+        "difference_norm": 5.194823265075684,
+        "cosine": 0.6871466636657715
+      },
+      "L28_H3": {
+        "prior_norm": 4.227436542510986,
+        "visual_norm": 3.0291006565093994,
+        "difference_norm": 2.7663910388946533,
+        "cosine": 0.7572529315948486
+      },
+      "L31_H3": {
+        "prior_norm": 10.813620567321777,
+        "visual_norm": 16.064208984375,
+        "difference_norm": 11.641637802124023,
+        "cosine": 0.6892589330673218
+      },
+      "L31_H7": {
+        "prior_norm": 10.441007614135742,
+        "visual_norm": 17.231014251708984,
+        "difference_norm": 9.589329719543457,
+        "cosine": 0.8725717067718506
+      },
+      "L34_H14": {
+        "prior_norm": 15.157696723937988,
+        "visual_norm": 19.04494285583496,
+        "difference_norm": 10.2527494430542,
+        "cosine": 0.8441025614738464
+      }
+    }
+  },
+  {
+    "object": "Whip",
+    "prior_color": "Black",
+    "visual_color": "Pink",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 4.635660648345947,
+        "visual_norm": 3.4931023120880127,
+        "difference_norm": 3.654560089111328,
+        "cosine": 0.6279104351997375
+      },
+      "L26_H5": {
+        "prior_norm": 3.887150526046753,
+        "visual_norm": 3.2312941551208496,
+        "difference_norm": 3.1034905910491943,
+        "cosine": 0.6337133049964905
+      },
+      "L26_H6": {
+        "prior_norm": 3.594850778579712,
+        "visual_norm": 3.9794538021087646,
+        "difference_norm": 2.520366668701172,
+        "cosine": 0.7831496000289917
+      },
+      "L27_H1": {
+        "prior_norm": 6.536312103271484,
+        "visual_norm": 8.454849243164062,
+        "difference_norm": 2.896639823913574,
+        "cosine": 0.9573885202407837
+      },
+      "L27_H4": {
+        "prior_norm": 5.393705368041992,
+        "visual_norm": 7.5537309646606445,
+        "difference_norm": 2.816833972930908,
+        "cosine": 0.9598841667175293
+      },
+      "L28_H3": {
+        "prior_norm": 3.6546859741210938,
+        "visual_norm": 3.0764596462249756,
+        "difference_norm": 1.9524668455123901,
+        "cosine": 0.8453423976898193
+      },
+      "L31_H3": {
+        "prior_norm": 11.058697700500488,
+        "visual_norm": 15.801957130432129,
+        "difference_norm": 5.4457783699035645,
+        "cosine": 0.979519248008728
+      },
+      "L31_H7": {
+        "prior_norm": 13.858269691467285,
+        "visual_norm": 17.037120819091797,
+        "difference_norm": 3.3381729125976562,
+        "cosine": 0.9978011846542358
+      },
+      "L34_H14": {
+        "prior_norm": 14.964781761169434,
+        "visual_norm": 16.467859268188477,
+        "difference_norm": 4.685529708862305,
+        "cosine": 0.9600409269332886
+      }
+    }
+  },
+  {
+    "object": "Rocket",
+    "prior_color": "White",
+    "visual_color": "Yellow",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 5.797438144683838,
+        "visual_norm": 3.6831185817718506,
+        "difference_norm": 5.0302510261535645,
+        "cosine": 0.512166440486908
+      },
+      "L26_H5": {
+        "prior_norm": 5.342465400695801,
+        "visual_norm": 2.9559876918792725,
+        "difference_norm": 4.592965126037598,
+        "cosine": 0.5124179124832153
+      },
+      "L26_H6": {
+        "prior_norm": 3.0742688179016113,
+        "visual_norm": 2.652034282684326,
+        "difference_norm": 2.686272382736206,
+        "cosine": 0.568396806716919
+      },
+      "L27_H1": {
+        "prior_norm": 6.2256178855896,
+        "visual_norm": 7.869237422943115,
+        "difference_norm": 3.4760777950286865,
+        "cosine": 0.904251217842102
+      },
+      "L27_H4": {
+        "prior_norm": 4.090676784515381,
+        "visual_norm": 5.417782783508301,
+        "difference_norm": 1.9940325021743774,
+        "cosine": 0.9500289559364319
+      },
+      "L28_H3": {
+        "prior_norm": 3.459489345550537,
+        "visual_norm": 2.5894505977630615,
+        "difference_norm": 2.063898801803589,
+        "cosine": 0.8044965267181396
+      },
+      "L31_H3": {
+        "prior_norm": 8.056556701660156,
+        "visual_norm": 7.682647705078125,
+        "difference_norm": 6.882457256317139,
+        "cosine": 0.6184839010238647
+      },
+      "L31_H7": {
+        "prior_norm": 9.954629898071289,
+        "visual_norm": 14.476907730102539,
+        "difference_norm": 5.811812400817871,
+        "cosine": 0.9537645578384399
+      },
+      "L34_H14": {
+        "prior_norm": 14.014077186584473,
+        "visual_norm": 14.86134147644043,
+        "difference_norm": 4.857306957244873,
+        "cosine": 0.945081353187561
+      }
+    }
+  },
+  {
+    "object": "Space heater",
+    "prior_color": "Black",
+    "visual_color": "Green",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 5.200901985168457,
+        "visual_norm": 4.237846374511719,
+        "difference_norm": 4.119631767272949,
+        "cosine": 0.6360381841659546
+      },
+      "L26_H5": {
+        "prior_norm": 5.197936058044434,
+        "visual_norm": 3.4479682445526123,
+        "difference_norm": 4.4958391189575195,
+        "cosine": 0.5215412378311157
+      },
+      "L26_H6": {
+        "prior_norm": 4.20885705947876,
+        "visual_norm": 5.174014091491699,
+        "difference_norm": 2.9226067066192627,
+        "cosine": 0.8252695798873901
+      },
+      "L27_H1": {
+        "prior_norm": 4.772923946380615,
+        "visual_norm": 8.4185209274292,
+        "difference_norm": 4.475442409515381,
+        "cosine": 0.9161393046379089
+      },
+      "L27_H4": {
+        "prior_norm": 3.2403430938720703,
+        "visual_norm": 5.73976993560791,
+        "difference_norm": 4.406578063964844,
+        "cosine": 0.6459240913391113
+      },
+      "L28_H3": {
+        "prior_norm": 4.876511573791504,
+        "visual_norm": 3.244615316390991,
+        "difference_norm": 3.234752893447876,
+        "cosine": 0.7534969449043274
+      },
+      "L31_H3": {
+        "prior_norm": 8.600539207458496,
+        "visual_norm": 14.51386833190918,
+        "difference_norm": 6.785356521606445,
+        "cosine": 0.9556441903114319
+      },
+      "L31_H7": {
+        "prior_norm": 7.9882001876831055,
+        "visual_norm": 15.885934829711914,
+        "difference_norm": 8.267669677734375,
+        "cosine": 0.9764375686645508
+      },
+      "L34_H14": {
+        "prior_norm": 14.110599517822266,
+        "visual_norm": 17.023807525634766,
+        "difference_norm": 7.398419380187988,
+        "cosine": 0.9037328362464905
+      }
+    }
+  },
+  {
+    "object": "Head cabbage",
+    "prior_color": "Green",
+    "visual_color": "Pink",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 6.937647819519043,
+        "visual_norm": 4.4672770500183105,
+        "difference_norm": 6.709194660186768,
+        "cosine": 0.372256338596344
+      },
+      "L26_H5": {
+        "prior_norm": 5.842601776123047,
+        "visual_norm": 3.8449208736419678,
+        "difference_norm": 5.824190139770508,
+        "cosine": 0.3338227868080139
+      },
+      "L26_H6": {
+        "prior_norm": 4.9481282234191895,
+        "visual_norm": 3.706916093826294,
+        "difference_norm": 3.5330300331115723,
+        "cosine": 0.7017360329627991
+      },
+      "L27_H1": {
+        "prior_norm": 10.069536209106445,
+        "visual_norm": 7.940041542053223,
+        "difference_norm": 6.258845806121826,
+        "cosine": 0.7833814024925232
+      },
+      "L27_H4": {
+        "prior_norm": 5.647678852081299,
+        "visual_norm": 7.11808443069458,
+        "difference_norm": 6.222904682159424,
+        "cosine": 0.5452505946159363
+      },
+      "L28_H3": {
+        "prior_norm": 4.9222564697265625,
+        "visual_norm": 3.112199068069458,
+        "difference_norm": 3.529038906097412,
+        "cosine": 0.7004444003105164
+      },
+      "L31_H3": {
+        "prior_norm": 17.05830955505371,
+        "visual_norm": 14.11744213104248,
+        "difference_norm": 17.91963768005371,
+        "cosine": 0.3512476086616516
+      },
+      "L31_H7": {
+        "prior_norm": 14.810446739196777,
+        "visual_norm": 14.811141967773438,
+        "difference_norm": 14.57596206665039,
+        "cosine": 0.5157297849655151
+      },
+      "L34_H14": {
+        "prior_norm": 13.94749641418457,
+        "visual_norm": 14.921478271484375,
+        "difference_norm": 8.515454292297363,
+        "cosine": 0.8280673027038574
+      }
+    }
+  },
+  {
+    "object": "Folding chair",
+    "prior_color": "Black",
+    "visual_color": "Yellow",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 4.3849287033081055,
+        "visual_norm": 4.064724445343018,
+        "difference_norm": 3.826885938644409,
+        "cosine": 0.5920411944389343
+      },
+      "L26_H5": {
+        "prior_norm": 4.185922145843506,
+        "visual_norm": 3.9063804149627686,
+        "difference_norm": 3.324115753173828,
+        "cosine": 0.6645140051841736
+      },
+      "L26_H6": {
+        "prior_norm": 3.0197994709014893,
+        "visual_norm": 3.507686138153076,
+        "difference_norm": 2.3516571521759033,
+        "cosine": 0.7501887083053589
+      },
+      "L27_H1": {
+        "prior_norm": 4.474602222442627,
+        "visual_norm": 7.09028434753418,
+        "difference_norm": 4.919867515563965,
+        "cosine": 0.7263569831848145
+      },
+      "L27_H4": {
+        "prior_norm": 3.5662646293640137,
+        "visual_norm": 6.0499091148376465,
+        "difference_norm": 3.6155576705932617,
+        "cosine": 0.8400096297264099
+      },
+      "L28_H3": {
+        "prior_norm": 4.590664386749268,
+        "visual_norm": 3.71142578125,
+        "difference_norm": 2.170870542526245,
+        "cosine": 0.8843868970870972
+      },
+      "L31_H3": {
+        "prior_norm": 9.717460632324219,
+        "visual_norm": 12.609126091003418,
+        "difference_norm": 5.07560920715332,
+        "cosine": 0.9289959073066711
+      },
+      "L31_H7": {
+        "prior_norm": 10.85407543182373,
+        "visual_norm": 13.533461570739746,
+        "difference_norm": 3.753739595413208,
+        "cosine": 0.9764745831489563
+      },
+      "L34_H14": {
+        "prior_norm": 14.02050495147705,
+        "visual_norm": 15.856684684753418,
+        "difference_norm": 6.457857608795166,
+        "cosine": 0.9137896299362183
+      }
+    }
+  },
+  {
+    "object": "Steel arch bridge",
+    "prior_color": "Gray",
+    "visual_color": "Yellow",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 5.011970520019531,
+        "visual_norm": 3.683168888092041,
+        "difference_norm": 3.860725164413452,
+        "cosine": 0.64410799741745
+      },
+      "L26_H5": {
+        "prior_norm": 4.672110557556152,
+        "visual_norm": 3.4355828762054443,
+        "difference_norm": 3.478386640548706,
+        "cosine": 0.6707402467727661
+      },
+      "L26_H6": {
+        "prior_norm": 3.282417058944702,
+        "visual_norm": 3.9049885272979736,
+        "difference_norm": 2.3184146881103516,
+        "cosine": 0.8054481744766235
+      },
+      "L27_H1": {
+        "prior_norm": 3.3619093894958496,
+        "visual_norm": 4.437164306640625,
+        "difference_norm": 3.486682891845703,
+        "cosine": 0.6312754154205322
+      },
+      "L27_H4": {
+        "prior_norm": 5.7834014892578125,
+        "visual_norm": 4.650717735290527,
+        "difference_norm": 4.409593105316162,
+        "cosine": 0.6623868346214294
+      },
+      "L28_H3": {
+        "prior_norm": 4.362422466278076,
+        "visual_norm": 3.868614435195923,
+        "difference_norm": 2.818168878555298,
+        "cosine": 0.7719249725341797
+      },
+      "L31_H3": {
+        "prior_norm": 8.933978080749512,
+        "visual_norm": 8.00762939453125,
+        "difference_norm": 8.229988098144531,
+        "cosine": 0.532606840133667
+      },
+      "L31_H7": {
+        "prior_norm": 5.225962162017822,
+        "visual_norm": 11.113814353942871,
+        "difference_norm": 7.013911247253418,
+        "cosine": 0.8749306201934814
+      },
+      "L34_H14": {
+        "prior_norm": 14.80025577545166,
+        "visual_norm": 15.226675033569336,
+        "difference_norm": 7.649688720703125,
+        "cosine": 0.8705710172653198
+      }
+    }
+  },
+  {
+    "object": "Cork",
+    "prior_color": "Brown",
+    "visual_color": "Pink",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 5.331343650817871,
+        "visual_norm": 4.298702716827393,
+        "difference_norm": 3.850163459777832,
+        "cosine": 0.6998540163040161
+      },
+      "L26_H5": {
+        "prior_norm": 4.876713752746582,
+        "visual_norm": 4.068079471588135,
+        "difference_norm": 3.6363525390625,
+        "cosine": 0.6832184195518494
+      },
+      "L26_H6": {
+        "prior_norm": 3.6438651084899902,
+        "visual_norm": 3.3864941596984863,
+        "difference_norm": 2.215217113494873,
+        "cosine": 0.8038503527641296
+      },
+      "L27_H1": {
+        "prior_norm": 5.339810371398926,
+        "visual_norm": 8.264459609985352,
+        "difference_norm": 6.039767265319824,
+        "cosine": 0.6836075782775879
+      },
+      "L27_H4": {
+        "prior_norm": 6.814393997192383,
+        "visual_norm": 7.4671430587768555,
+        "difference_norm": 6.021627902984619,
+        "cosine": 0.6478866934776306
+      },
+      "L28_H3": {
+        "prior_norm": 4.1068291664123535,
+        "visual_norm": 3.2649381160736084,
+        "difference_norm": 2.7129440307617188,
+        "cosine": 0.7519758939743042
+      },
+      "L31_H3": {
+        "prior_norm": 17.123140335083008,
+        "visual_norm": 14.993647575378418,
+        "difference_norm": 18.209827423095703,
+        "cosine": 0.3630419373512268
+      },
+      "L31_H7": {
+        "prior_norm": 9.114270210266113,
+        "visual_norm": 15.579825401306152,
+        "difference_norm": 8.651780128479004,
+        "cosine": 0.8836262226104736
+      },
+      "L34_H14": {
+        "prior_norm": 14.092988967895508,
+        "visual_norm": 16.15329933166504,
+        "difference_norm": 9.881524085998535,
+        "cosine": 0.794859766960144
+      }
+    }
+  },
+  {
+    "object": "Indigo bunting",
+    "prior_color": "Blue",
+    "visual_color": "Yellow",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 4.851582050323486,
+        "visual_norm": 3.8328630924224854,
+        "difference_norm": 4.042834281921387,
+        "cosine": 0.5884283781051636
+      },
+      "L26_H5": {
+        "prior_norm": 4.117158889770508,
+        "visual_norm": 3.273888111114502,
+        "difference_norm": 3.0810251235961914,
+        "cosine": 0.6742513179779053
+      },
+      "L26_H6": {
+        "prior_norm": 4.154090881347656,
+        "visual_norm": 3.4588308334350586,
+        "difference_norm": 2.3625524044036865,
+        "cosine": 0.8225862979888916
+      },
+      "L27_H1": {
+        "prior_norm": 4.018340587615967,
+        "visual_norm": 8.425235748291016,
+        "difference_norm": 6.10328483581543,
+        "cosine": 0.7366841435432434
+      },
+      "L27_H4": {
+        "prior_norm": 7.1961989402771,
+        "visual_norm": 6.219367504119873,
+        "difference_norm": 6.359085559844971,
+        "cosine": 0.5588977932929993
+      },
+      "L28_H3": {
+        "prior_norm": 4.760158538818359,
+        "visual_norm": 3.4509541988372803,
+        "difference_norm": 3.054192304611206,
+        "cosine": 0.7682464122772217
+      },
+      "L31_H3": {
+        "prior_norm": 16.609575271606445,
+        "visual_norm": 8.655696868896484,
+        "difference_norm": 13.305526733398438,
+        "cosine": 0.6043162941932678
+      },
+      "L31_H7": {
+        "prior_norm": 9.75123119354248,
+        "visual_norm": 13.467597007751465,
+        "difference_norm": 11.304326057434082,
+        "cosine": 0.5660542249679565
+      },
+      "L34_H14": {
+        "prior_norm": 16.531457901000977,
+        "visual_norm": 16.507801055908203,
+        "difference_norm": 10.27355670928955,
+        "cosine": 0.8066210746765137
+      }
+    }
+  },
+  {
+    "object": "Band aid",
+    "prior_color": "Brown",
+    "visual_color": "Purple",
+    "heads": {
+      "L26_H0": {
+        "prior_norm": 5.002402305603027,
+        "visual_norm": 3.3822269439697266,
+        "difference_norm": 3.9329137802124023,
+        "cosine": 0.6204667091369629
+      },
+      "L26_H5": {
+        "prior_norm": 5.158052444458008,
+        "visual_norm": 3.836487293243408,
+        "difference_norm": 4.398077011108398,
+        "cosine": 0.5553913116455078
+      },
+      "L26_H6": {
+        "prior_norm": 3.7987136840820312,
+        "visual_norm": 3.686000108718872,
+        "difference_norm": 2.0619614124298096,
+        "cosine": 0.8486300706863403
+      },
+      "L27_H1": {
+        "prior_norm": 5.177626132965088,
+        "visual_norm": 7.930309772491455,
+        "difference_norm": 5.3765788078308105,
+        "cosine": 0.7402552366256714
+      },
+      "L27_H4": {
+        "prior_norm": 4.855844497680664,
+        "visual_norm": 7.709259033203125,
+        "difference_norm": 4.030425548553467,
+        "cosine": 0.8917809724807739
+      },
+      "L28_H3": {
+        "prior_norm": 4.831191062927246,
+        "visual_norm": 3.8171911239624023,
+        "difference_norm": 3.045776128768921,
+        "cosine": 0.7763597965240479
+      },
+      "L31_H3": {
+        "prior_norm": 9.795116424560547,
+        "visual_norm": 16.179231643676758,
+        "difference_norm": 9.751980781555176,
+        "cosine": 0.8285428285598755
+      },
+      "L31_H7": {
+        "prior_norm": 11.300315856933594,
+        "visual_norm": 16.895923614501953,
+        "difference_norm": 7.615880966186523,
+        "cosine": 0.9301028251647949
+      },
+      "L34_H14": {
+        "prior_norm": 14.81341552734375,
+        "visual_norm": 17.59588623046875,
+        "difference_norm": 7.941384792327881,
+        "cosine": 0.893876314163208
+      }
+    }
+  }
+]

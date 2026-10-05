@@ -43,3 +43,18 @@ outputs/
 outputs_local/
 data/
 figures/
+
+# Hugging Face / model caches
+.cache/
+huggingface/
+transformers_cache/
+*.safetensors
+*.bin
+*.gguf
+
+# Local model files
+models/
+checkpoints/
+
+# Temporary experiment files
+*.tmp
