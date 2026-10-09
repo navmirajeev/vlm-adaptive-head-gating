@@ -113,9 +113,16 @@ def main():
 
     combined_gate = HeadContextGate()
 
-    combined_weights = combined_gate(
+    context_projector = torch.nn.Sequential(
+        torch.nn.Linear(2048, 32),
+        torch.nn.GELU(),
+    )
+
+    projected_context = context_projector(hidden_state)
+
+    combined_weights = combined_gate(   
         head_output,
-        hidden_state,
+        projected_context,
     )
 
     print()

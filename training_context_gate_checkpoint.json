@@ -1,0 +1,146 @@
+{
+  "epoch": 1,
+  "completed_examples": 20,
+  "loss_records": [
+    {
+      "epoch": 1,
+      "example": 1,
+      "object": "Vulture",
+      "loss": 0.00408935546875,
+      "margin": 5.5
+    },
+    {
+      "epoch": 1,
+      "example": 2,
+      "object": "Stingray",
+      "loss": 0.045654296875,
+      "margin": 3.0625
+    },
+    {
+      "epoch": 1,
+      "example": 3,
+      "object": "Strawberry",
+      "loss": 0.06201171875,
+      "margin": 2.75
+    },
+    {
+      "epoch": 1,
+      "example": 4,
+      "object": "Honeydew",
+      "loss": 1.3125,
+      "margin": -1.0
+    },
+    {
+      "epoch": 1,
+      "example": 5,
+      "object": "Skillet",
+      "loss": 0.004608154296875,
+      "margin": 5.375
+    },
+    {
+      "epoch": 1,
+      "example": 6,
+      "object": "Revolver",
+      "loss": 0.06201171875,
+      "margin": 2.75
+    },
+    {
+      "epoch": 1,
+      "example": 7,
+      "object": "Computer keyboard",
+      "loss": 0.1796875,
+      "margin": 1.625
+    },
+    {
+      "epoch": 1,
+      "example": 8,
+      "object": "Alligator",
+      "loss": 0.09423828125,
+      "margin": 2.3125
+    },
+    {
+      "epoch": 1,
+      "example": 9,
+      "object": "Trumpet",
+      "loss": 0.00141143798828125,
+      "margin": 6.5625
+    },
+    {
+      "epoch": 1,
+      "example": 10,
+      "object": "Panther",
+      "loss": 0.16015625,
+      "margin": 1.75
+    },
+    {
+      "epoch": 1,
+      "example": 11,
+      "object": "Rubber eraser",
+      "loss": 0.00360107421875,
+      "margin": 5.625
+    },
+    {
+      "epoch": 1,
+      "example": 12,
+      "object": "Whip",
+      "loss": 0.0028076171875,
+      "margin": 5.875
+    },
+    {
+      "epoch": 1,
+      "example": 13,
+      "object": "Rocket",
+      "loss": 0.004608154296875,
+      "margin": 5.375
+    },
+    {
+      "epoch": 1,
+      "example": 14,
+      "object": "Space heater",
+      "loss": 0.003173828125,
+      "margin": 5.75
+    },
+    {
+      "epoch": 1,
+      "example": 15,
+      "object": "Head cabbage",
+      "loss": 0.02978515625,
+      "margin": 3.5
+    },
+    {
+      "epoch": 1,
+      "example": 16,
+      "object": "Folding chair",
+      "loss": 0.00170135498046875,
+      "margin": 6.375
+    },
+    {
+      "epoch": 1,
+      "example": 17,
+      "object": "Steel arch bridge",
+      "loss": 0.048583984375,
+      "margin": 3.0
+    },
+    {
+      "epoch": 1,
+      "example": 18,
+      "object": "Cork",
+      "loss": 0.01251220703125,
+      "margin": 4.375
+    },
+    {
+      "epoch": 1,
+      "example": 19,
+      "object": "Indigo bunting",
+      "loss": 0.06982421875,
+      "margin": 2.625
+    },
+    {
+      "epoch": 1,
+      "example": 20,
+      "object": "Band aid",
+      "loss": 0.00016880035400390625,
+      "margin": 8.6875
+    }
+  ]
+}
